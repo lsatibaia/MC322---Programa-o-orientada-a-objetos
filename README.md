@@ -1,2 +1,4 @@
-# MC322---Programa-o-orientada-a-objetos
-Principais laboratórios feitos para a disciplina MC322
+# MC322
+Contém os principais laboratórios feitos na matéria de MC322 - Programação orientada a objetos
+
+Disciplina realizada no segundo semestre de 2021, disponibilizada de forma remota pela Unicamp
